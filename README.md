@@ -88,15 +88,7 @@ Various responsive web applications focusing on user experience and performance.
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-  
-![Anuskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuskarsigdel&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 
