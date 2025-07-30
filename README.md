@@ -1,296 +1,391 @@
-# 🚀 Anuskar Sigdel - Code Architect & Digital Innovator
+# <div align="center">🌌 WELCOME TO THE DIGITAL REALM OF ANUSKAR SIGDEL 🌌</div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Universe;Full+Stack+developer+%7C+Problem+Solver;Building+Tomorrow's+Web+Today;Let's+Create+Something+Amazing!)
+<!-- Animated Matrix Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=300&section=header&text=ANUSKAR%20SIGDEL&fontSize=80&fontColor=ffffff&animation=blinking&fontAlignY=38&desc=🚀%20CODE%20ARCHITECT%20%7C%20DIGITAL%20INNOVATOR%20🚀&descAlignY=60&descAlign=50" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Anuskar%20Sigdel&fontSize=90&fontAlignY=38&desc=Transforming%20Ideas%20Into%20Digital%20Reality&descAlignY=51&descAlign=50&animation=twinkling" />
+<!-- Holographic Welcome Message -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2000&pause=500&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=INITIALIZING+QUANTUM+PROCESSOR...;ACCESSING+NEURAL+NETWORKS...;LOADING+CREATIVE+ALGORITHMS...;WELCOME+TO+MY+UNIVERSE+%F0%9F%8C%8C;LET'S+BUILD+THE+IMPOSSIBLE!" />
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/anuskarsigdel)
+<!-- Neon Border Animation -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 <span style="color: #00D9FF;">QUANTUM PROFILE INITIALIZATION</span>
 
-```javascript
-const anuskar = {
-    name: "Anuskar Sigdel",
-    email: "anuskarsigdel04@gmail.com",
-    currentFocus: "Building scalable web applications",
-    degree: "Computer Science ",
-    passion: ["Clean Code", "UI/UX", "Problem Solving"],
-    
-    sayHello: function() {
-        console.log("Thanks for visiting my profile! Let's build something amazing together 🚀");
-    }
+<div align="center">
+
+```ascii
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║  ██╗   ██╗███╗   ██╗██╗██╗   ██╗███████╗██████╗ ███████╗███████╗ ║
+    ║  ██║   ██║████╗  ██║██║██║   ██║██╔════╝██╔══██╗██╔════╝██╔════╝ ║
+    ║  ██║   ██║██╔██╗ ██║██║██║   ██║█████╗  ██████╔╝███████╗█████╗   ║
+    ║  ██║   ██║██║╚██╗██║██║╚██╗ ██╔╝██╔══╝  ██╔══██╗╚════██║██╔══╝   ║
+    ║  ╚██████╔╝██║ ╚████║██║ ╚████╔╝ ███████╗██║  ██║███████║███████╗ ║
+    ║   ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ║
+    ╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+### 🧬 DNA SEQUENCE: ANUSKAR_SIGDEL.EXE
+
+```cpp
+class DigitalArchitect {
+    private:
+        string name = "Anuskar Sigdel";
+        string email = "anuskarsigdel04@gmail.com";
+        vector<string> superpowers = {"Problem Solving", "Innovation", "Leadership"};
+        string currentMission = "Building the next generation of web experiences";
+        
+    public:
+        void executeVision() {
+            while(passion > 0) {
+                learn();
+                build();
+                inspire();
+                repeat();
+            }
+        }
+        
+        string getPhilosophy() {
+            return "Code is poetry, bugs are just hidden features! 🚀";
+        }
 };
 
-anuskar.sayHello();
+DigitalArchitect anuskar;
+anuskar.executeVision();
 ```
 
+</div>
+
+---
+
+## 🌟 <span style="color: #FF6B6B;">TECH MASTERY CONSTELLATION</span>
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=anuskarsigdel&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/anuskarsigdel?label=Follow&style=social)](https://github.com/anuskarsigdel)
+<!-- Animated Tech Stack -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,sql,docker,linux,git,github&theme=dark&perline=12" />
+
+<br><br>
+
+<!-- Rotating Tech Badges -->
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20C++-68A063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Database-SQL%20%7C%20NoSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Linux%20%7C%20Git-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
+
+<br><br>
+
+<!-- Holographic Skill Bars -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🎮 <span style="color: #FFD93D;">LEGENDARY PROJECT SHOWCASE</span>
 
 <div align="center">
-
-### Frontend Mastery
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### Backend Power
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Database & Tools
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,sql,docker,linux,git,github&theme=dark" />
-</div>
-
----
-
-## 🎮 Featured Projects
-
-<div align="center">
-
-### 🕹️ Snack Man - Retro Gaming Reimagined
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" />
-
-**Epic Game Features:**
-- 🎯 Advanced AI enemy behavior
-- 🎵 Immersive Web Audio API integration
-- 💾 Persistent leaderboard system
-- 🎨 Smooth DOM animations
-- 🕹️ Responsive controls
-
-```javascript
-// Game Magic in Action
-class SnackMan {
-    constructor() {
-        this.score = 0;
-        this.level = 1;
-        this.lives = 3;
-        this.powerMode = false;
-    }
-    
-    levelUp() {
-        this.level++;
-        console.log("🎉 Level Up! The adventure continues...");
-    }
-}
-```
-
-### 🧮 Advanced Web Calculator - Future of Computing
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
-
-**Revolutionary Features:**
-- ✨ Glassmorphism design language
-- 🌈 3D holographic display
-- ⌨️ Full keyboard integration  
-- 🎭 Premium visual effects
-- 📱 Ultra-responsive layout
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuskarsigdel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuskarsigdel&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuskarsigdel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&theme=default&hide_border=true">
-  <img alt="Top Languages" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&theme=dark&hide_border=true">
-</picture>
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=anuskarsigdel&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anuskarsigdel&theme=onedark&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Coding Journey
-
-<div align="center">
-
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=anuskarsigdel&bg_color=0d1117&color=ffffff&line=e05397&point=e05397&area=true&hide_border=true" />
-
-### 💻 Development Metrics
 
 <table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=anuskarsigdel&layout=compact&theme=dark" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=anuskarsigdel&repo=snack-man&theme=dark" />
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="50%">
 
-### 🔥 Commit Heatmap
-<img src="https://ghchart.rshah.org/e05397/anuskarsigdel" alt="GitHub Commit Heatmap" width="100%" />
-
-### ⚡ Quick Stats
-<div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuskarsigdel&theme=github_dark)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuskarsigdel&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuskarsigdel&theme=github_dark" />
-
-</div>
-
-</div>
-
----
-
-## 🌟 Professional Experience
-
-<div align="center">
-
-### 🎓 Education
-**Bachelor's in Computer Science** | NAMI (2024-2027)
-- 📚 **Coursework**: Relational Databases, Software Systems Design, Web Programming
-- 🎯 **Focus**: Modern web technologies and scalable system architecture
-
-### 🤝 Volunteering
-**Asia Pacific Optometry Congress** | September 2024
-- 🌏 Coordinated registration for national delegates
-- 💼 Enhanced communication and organizational skills
-
-</div>
-
----
-
-## 🚀 Skills Constellation
-
-<div align="center">
-
-```
-        🧠 Problem Solving ⭐⭐⭐⭐⭐
-       🤝 Teamwork        ⭐⭐⭐⭐⭐  
-      ⏰ Time Management  ⭐⭐⭐⭐⭐
-     💬 Communication     ⭐⭐⭐⭐⭐
-    👑 Leadership         ⭐⭐⭐⭐⭐
-```
-
-</div>
-
----
-
-## 🎯 Interests & Hobbies
-
-<div align="center">
-
-| 💪 Working Out | 🎮 Gaming | 📚 Reading |
-|:---:|:---:|:---:|
-| Building physical & mental strength | Exploring virtual worlds & mechanics | Expanding knowledge horizons |
-| <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150"/> | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"/> | <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="150"/> |
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuskarsigdel04@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+9779810216186)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuskarsigdel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuskarsigdel)
-
-</div>
-
----
-
-## 💭 Developer Quote
-
-<div align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem-anuskarsigdel.vercel.app/api/spotify)](https://open.spotify.com/user/anuskarsigdel)
-
-</div>
-
----
-
-## 🌟 Fun Facts About Me
-
-<div align="center">
+### 🕹️ SNACK-MAN: RETRO REVOLUTION
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" />
 
 ```yaml
-🎯 Current Goal: "Building the next big thing in web development"
-🌙 Night Owl: "Best code happens after midnight"
-☕ Fuel: "Coffee + Music + Code = Perfect Day"
-🎮 Gaming Philosophy: "Every bug is just an undocumented feature"
-💡 Motto: "Think twice, code once"
-🚀 Dream: "To create technology that changes lives"
+🎯 Epic Features:
+  ⚡ Advanced AI Enemy Behavior
+  🎵 Web Audio API Integration  
+  💾 Persistent Leaderboard System
+  🎨 Smooth DOM Animations
+  🕹️ Multi-platform Controls
+  
+🚀 Tech Stack: Vanilla JS | HTML5 Canvas | Web APIs
+💡 Innovation: Custom game engine built from scratch
+```
+
+</td>
+<td width="50%">
+
+### 🧮 QUANTUM CALCULATOR
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
+
+```yaml
+✨ Revolutionary Design:
+  🌈 Glassmorphism UI/UX
+  🎭 3D Holographic Display
+  ⌨️ Full Keyboard Integration
+  🎯 Premium Visual Effects
+  📱 Ultra-responsive Layout
+  
+🚀 Tech Stack: Advanced CSS | Modern JS | Grid Layout
+💡 Innovation: Next-gen calculator interface
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 <span style="color: #4ECDC4;">QUANTUM ANALYTICS DASHBOARD</span>
+
+<div align="center">
+
+<!-- Main Stats Display -->
+<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuskarsigdel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B" />
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=anuskarsigdel&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FFD93D&currStreakLabel=00D9FF" />
+
+<br><br>
+
+<!-- Advanced Metrics Grid -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuskarsigdel&theme=github_dark" />
+
+<br>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuskarsigdel&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuskarsigdel&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuskarsigdel&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuskarsigdel&theme=github_dark&utcOffset=8" />
+
+</div>
+
+---
+
+## 🏆 <span style="color: #FF6B6B;">ACHIEVEMENT HALL OF FAME</span>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anuskarsigdel&theme=tokyonight&no-frame=true&margin-w=15&column=4&no-bg=true" />
+
+<br><br>
+
+<!-- Custom Achievement Badges -->
+<img src="https://img.shields.io/badge/🚀_Code_Architect-Legendary-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯_Problem_Solver-Master-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡_Innovation_Leader-Elite-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌟_Future_Builder-Visionary-4ECDC4?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🎨 <span style="color: #FFD93D;">CREATIVE UNIVERSE</span>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💪 PHYSICAL ENHANCEMENT
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150" />
+
+```
+Building both 
+mind and body 
+for peak 
+performance
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🎮 DIGITAL EXPLORATION  
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" />
+
+```
+Mastering virtual
+worlds to enhance
+real-world
+problem solving
+```
+
+</td>
+<td align="center" width="33%">
+
+### 📚 KNOWLEDGE ACQUISITION
+<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="150" />
+
+```
+Constantly learning
+from the greatest
+minds in tech
+and beyond
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 <span style="color: #4ECDC4;">NEURAL NETWORK CONNECTIONS</span>
+
+<div align="center">
+
+<!-- Advanced Contact Grid -->
+<a href="mailto:anuskarsigdel04@gmail.com">
+<img src="https://img.shields.io/badge/📧_Quantum_Email-anuskarsigdel04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+
+
+
+<a href="https://github.com/anuskarsigdel">
+<img src="https://img.shields.io/badge/🚀_Code_Repository-GitHub_Universe-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+
+<a href="https://linkedin.com/in/anuskarsigdel">
+<img src="https://img.shields.io/badge/💼_Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+
+<br><br>
+
+<!-- Social Stats -->
+![Profile Views](https://komarev.com/ghpvc/?username=anuskarsigdel&label=DIGITAL+VISITORS&color=00D9FF&style=for-the-badge&labelColor=000000)
+[![GitHub followers](https://img.shields.io/github/followers/anuskarsigdel?label=FOLLOWERS&style=for-the-badge&color=FF6B6B&labelColor=000000)](https://github.com/anuskarsigdel)
+
+</div>
+
+---
+
+## 💫 <span style="color: #FF6B6B;">QUANTUM INSPIRATIONS</span>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║  "THE FUTURE BELONGS TO THOSE WHO BELIEVE IN THE BEAUTY OF THEIR DREAMS"    ║
+║                                                                              ║
+║  🌟 Current Mission: Building tomorrow's web today                          ║
+║  🎯 Philosophy: Every bug is a feature waiting to be discovered             ║
+║  🚀 Vision: Creating technology that inspires and empowers                  ║
+║  💡 Motto: Think different, code different, be different                    ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20in%20logic&author=Anuskar%20Sigdel" />
+
+</div>
+
+---
+
+## 🎵 <span style="color: #FFD93D;">SONIC WAVELENGTHS</span>
+
+<div align="center">
+
+<!-- Music Integration -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=anuskarsigdel&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+
+### 🎧 Currently Coding To:
+*Lo-fi beats, Electronic symphonies, and Epic game soundtracks*
+
+</div>
+
+---
+
+## 🔬 <span style="color: #4ECDC4;">LABORATORY EXPERIMENTS</span>
+
+<div align="center">
+
+### 🧪 Current Research Projects
+
+<table>
+<tr>
+<td align="center">
+
+**🤖 AI-Powered Web Apps**
+<br>
+*Exploring machine learning integration*
+
+</td>
+<td align="center">
+
+**🌐 Quantum UI/UX**
+<br>
+*Next-gen user interfaces*
+
+</td>
+<td align="center">
+
+**⚡ Performance Optimization**
+<br>
+*Lightning-fast web experiences*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎭 <span style="color: #FF6B6B;">PERFORMANCE METRICS</span>
+
+<div align="center">
+
+```
+🎯 Problem Solving    ████████████████████ 100%
+🚀 Innovation        ████████████████████ 100%  
+💻 Technical Skills   ██████████████████░░  90%
+🎨 Creative Design    ██████████████████░░  90%
+🤝 Team Leadership    ████████████████████ 100%
+⚡ Learning Speed     ████████████████████ 100%
+🔥 Passion Level      ████████████████████ ∞∞∞%
 ```
 
 </div>
 
 ---
 
+## 🌟 <span style="color: #FFD93D;">TESTIMONIAL MATRIX</span>
+
 <div align="center">
 
-### 🚀 "The future belongs to those who believe in the beauty of their dreams"
+> *"Anuskar doesn't just write code, he crafts digital experiences that push the boundaries of what's possible."*
+> 
+> **- Future Self, 2030**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontAlignY=65&desc=Let's%20build%20something%20extraordinary%20together&descAlignY=80&descAlign=50&animation=twinkling" />
-
-![Snake animation](https://github.com/anuskarsigdel/anuskarsigdel/blob/output/github-contribution-grid-snake.svg)
-
-**⭐ Star this repo if you found it interesting!**
+> *"A true digital architect who sees patterns where others see chaos."*
+> 
+> **- AI Assistant, 2025**
 
 </div>
 
 ---
 
 <div align="center">
-<sub>💻 Made with ❤️ by Anuskar Sigdel | Last updated: July 2025</sub>
+
+<!-- Epic Footer Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=MISSION%20CONTINUES...&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Thanks%20for%20exploring%20my%20digital%20universe!&descAlignY=80&descAlign=50" />
+
+<!-- Snake Game -->
+![Snake Animation](https://github.com/anuskarsigdel/anuskarsigdel/blob/output/github-contribution-grid-snake-dark.svg)
+
+### 🌌 *"In a world of algorithms, be the human touch"*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+**⭐ STAR THIS REPOSITORY IF IT TRANSPORTED YOU TO ANOTHER DIMENSION! ⭐**
+
+---
+
+<sub>🚀 Engineered with ❤️ and ☕ by Anuskar Sigdel | Quantum Edition 2025 | Version 3.14159</sub>
+
 </div>
