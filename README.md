@@ -97,9 +97,6 @@ anuskar.executeVision();
 
 <br>
 
-<!-- GitHub Streak with Fire Effects -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anuskarsigdel&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=FF6B6B&sideLabels=ffffff" />
-
 </div>
 
 ---
