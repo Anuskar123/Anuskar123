@@ -91,14 +91,6 @@ anuskar.executeVision();
 
 <br><br>
 
-<!-- Real-time GitHub Stats with Enhanced Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=anuskarsigdel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&custom_title=⚡%20Quantum%20Code%20Statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B&custom_title=🧬%20DNA%20Language%20Analysis" />
-
-<br>
-
-<!-- GitHub Streak with Fire Effects -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anuskarsigdel&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=FF6B6B&sideLabels=ffffff" />
 
 </div>
 
@@ -278,13 +270,13 @@ and beyond
 
 <br><br>
 
-<!-- <a href="https://github.com/anuskarsigdel">
+<a href="https://github.com/anuskarsigdel">
 <img src="https://img.shields.io/badge/🚀_Code_Repository-GitHub_Universe-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 
 <a href="https://linkedin.com/in/anuskarsigdel">
 <img src="https://img.shields.io/badge/💼_Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a> -->
+</a>
 
 <br><br>
 
