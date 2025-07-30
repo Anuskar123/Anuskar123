@@ -1,4 +1,3 @@
-
 # 🚀 Anuskar Sigdel - Code Architect & Digital Innovator
 
 <div align="center">
@@ -18,11 +17,9 @@
 ```javascript
 const anuskar = {
     name: "Anuskar Sigdel",
-    location: "Gokarna, Kathmandu 🏔️",
     email: "anuskarsigdel04@gmail.com",
-    phone: "(977) 9810216186",
     currentFocus: "Building scalable web applications",
-    degree: "Computer Science @ NAMI",
+    degree: "Computer Science ",
     passion: ["Clean Code", "UI/UX", "Problem Solving"],
     
     sayHello: function() {
@@ -120,26 +117,62 @@ class SnackMan {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuskarsigdel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&hide_border=true&theme=radical" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuskarsigdel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuskarsigdel&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true">
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuskarsigdel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&theme=dark&hide_border=true">
+</picture>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuskarsigdel&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=anuskarsigdel&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anuskarsigdel&theme=radical&no-frame=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=anuskarsigdel&theme=onedark&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🎯 Coding Activity
+## 🎯 Coding Journey
 
 <div align="center">
 
-![Anuskar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anuskarsigdel&theme=react-dark&hide_border=true&area=true)
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=anuskarsigdel&bg_color=0d1117&color=ffffff&line=e05397&point=e05397&area=true&hide_border=true" />
+
+### 💻 Development Metrics
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=anuskarsigdel&layout=compact&theme=dark" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=anuskarsigdel&repo=snack-man&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+### 🔥 Commit Heatmap
+<img src="https://ghchart.rshah.org/e05397/anuskarsigdel" alt="GitHub Commit Heatmap" width="100%" />
+
+### ⚡ Quick Stats
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuskarsigdel&theme=github_dark)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuskarsigdel&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuskarsigdel&theme=github_dark" />
+
+</div>
 
 </div>
 
