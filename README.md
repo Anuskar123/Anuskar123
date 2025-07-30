@@ -1,293 +1,137 @@
-# <div align="center">🌌 WELCOME TO THE DIGITAL REALM OF ANUSKAR SIGDEL 🌌</div>
+# Hi there, I'm Anuskar Sigdel 👋
 
-<div align="center">
+**Software Developer | Problem Solver | Tech Enthusiast**
 
-<!-- Animated Matrix Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=300&section=header&text=ANUSKAR%20SIGDEL&fontSize=80&fontColor=ffffff&animation=blinking&fontAlignY=38&desc=🚀%20CODE%20ARCHITECT%20%7C%20DIGITAL%20INNOVATOR%20🚀&descAlignY=60&descAlign=50" />
-
-<!-- Holographic Welcome Message -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2000&pause=500&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=INITIALIZING+QUANTUM+PROCESSOR...;ACCESSING+NEURAL+NETWORKS...;LOADING+CREATIVE+ALGORITHMS...;WELCOME+TO+MY+UNIVERSE+%F0%9F%8C%8C;LET'S+BUILD+THE+IMPOSSIBLE!" />
-
-<!-- Neon Border Animation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-</div>
+Welcome to my GitHub profile! I'm passionate about building web applications and exploring new technologies. Currently focused on creating efficient, user-friendly solutions that make a difference.
 
 ---
 
-## 🎯 <span style="color: #00D9FF;">QUANTUM PROFILE INITIALIZATION</span>
+## About Me
 
-<div align="center">
-
-```ascii
-    ╔═══════════════════════════════════════════════════════════════╗
-    ║  ██╗   ██╗███╗   ██╗██╗██╗   ██╗███████╗██████╗ ███████╗███████╗ ║
-    ║  ██║   ██║████╗  ██║██║██║   ██║██╔════╝██╔══██╗██╔════╝██╔════╝ ║
-    ║  ██║   ██║██╔██╗ ██║██║██║   ██║█████╗  ██████╔╝███████╗█████╗   ║
-    ║  ██║   ██║██║╚██╗██║██║╚██╗ ██╔╝██╔══╝  ██╔══██╗╚════██║██╔══╝   ║
-    ║  ╚██████╔╝██║ ╚████║██║ ╚████╔╝ ███████╗██║  ██║███████║███████╗ ║
-    ║   ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ║
-    ╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-### 🧬 DNA SEQUENCE: ANUSKAR_SIGDEL.EXE
-
-```cpp
-class DigitalArchitect {
-    private:
-        string name = "Anuskar Sigdel";
-        string email = "anuskarsigdel04@gmail.com";
-        string location = "🌍 Building for the World";
-        vector<string> superpowers = {"Problem Solving", "Innovation", "Leadership"};
-        string currentMission = "Building the next generation of web experiences";
-        int passionLevel = INFINITE;
-        bool readyToInnovate = true;
-        
-    public:
-        void executeVision() {
-            while(passion > 0) {
-                learn();
-                build();
-                inspire();
-                repeat();
-            }
-        }
-        
-        string getPhilosophy() {
-            return "Code is poetry, bugs are just hidden features! 🚀";
-        }
-        
-        void hackReality() {
-            cout << "Transforming ideas into digital magic! ✨" << endl;
-        }
+```javascript
+const anuskar = {
+    name: "Anuskar Sigdel",
+    email: "anuskarsigdel04@gmail.com",
+    location: "world"
+    currentFocus: "Full-stack web development",
+    interests: ["Web Development", "Problem Solving", "Learning New Tech"],
+    motto: "Clean code, better solutions"
 };
-
-DigitalArchitect anuskar;
-anuskar.executeVision();
 ```
 
-</div>
+I enjoy turning complex problems into simple, elegant solutions. When I'm not coding, you'll find me exploring new frameworks, contributing to open source, or working on personal projects that challenge my skills.
 
 ---
 
-## 🌟 <span style="color: #FF6B6B;">TECH MASTERY CONSTELLATION</span>
+## Tech Stack
 
-<div align="center">
+**Frontend:**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Responsive Design
 
-<!-- Animated Tech Stack -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,sql,docker,linux,git,github&theme=dark&perline=12" />
+**Backend:**
+- Node.js
+- Python
+- RESTful APIs
 
-<br><br>
+**Database & Tools:**
+- SQL databases
+- Git & GitHub
+- Linux
+- Docker
 
-<!-- Enhanced Tech Badges with Glow Effects -->
-<img src="https://img.shields.io/badge/Frontend-React%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20C++-68A063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Database-SQL%20%7C%20NoSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Linux%20%7C%20Git-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
+**Languages:**
+- JavaScript
+- Python
+- C++
+- SQL
 
-<br><br>
-
-
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,sql,docker,linux,git,github&theme=light" alt="Tech Stack" />
 
 ---
 
-## 🎮 <span style="color: #FFD93D;">LEGENDARY PROJECT SHOWCASE</span>
+## Featured Projects
+
+### 🎮 Snack-Man Game
+A modern take on the classic Pac-Man game built with vanilla JavaScript.
+
+**Features:**
+- Smooth gameplay with HTML5 Canvas
+- AI-powered enemy behavior
+- Web Audio API for sound effects
+- Responsive controls
+- Local leaderboard system
+
+**Tech:** JavaScript, HTML5 Canvas, Web APIs
+
+### 🧮 Advanced Calculator
+A feature-rich calculator with modern UI/UX design.
+
+**Features:**
+- Clean, intuitive interface
+- Keyboard input support
+- Responsive design
+- Advanced mathematical operations
+- Smooth animations
+
+**Tech:** HTML, CSS, JavaScript
+
+### 🌐 Web Applications
+Various responsive web applications focusing on user experience and performance.
+
+**Focus Areas:**
+- Modern JavaScript frameworks
+- Mobile-first design
+- Performance optimization
+- Accessibility standards
+
+---
+
+## GitHub Stats
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🕹️ SNACK-MAN: RETRO REVOLUTION
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" height="200"/>
-
-```yaml
-🎯 Epic Features:
-  ⚡ Advanced AI Enemy Behavior
-  🎵 Web Audio API Integration  
-  💾 Persistent Leaderboard System
-  🎨 Smooth DOM Animations
-  🕹️ Multi-platform Controls
-  🎮 Classic Arcade Experience
   
-🚀 Tech Stack: Vanilla JS | HTML5 Canvas | Web APIs
-💡 Innovation: Custom game engine built from scratch
-🏆 Achievement: Pure JavaScript mastery showcase
-```
+![Anuskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuskarsigdel&show_icons=true&theme=default&hide_border=true)
 
-</td>
-<td width="50%">
-
-### 🧮 QUANTUM CALCULATOR
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="200"/>
-
-```yaml
-✨ Revolutionary Design:
-  🌈 Glassmorphism UI/UX
-  🎭 3D Holographic Display
-  ⌨️ Full Keyboard Integration
-  🎯 Premium Visual Effects
-  📱 Ultra-responsive Layout
-  💫 Smooth Micro-animations
-  
-🚀 Tech Stack: Advanced CSS | Modern JS | Grid Layout
-💡 Innovation: Next-gen calculator interface
-🎨 Design: Cutting-edge visual aesthetics
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🚀 More Epic Creations
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🌐 Modern Web Apps**<br>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" height="120"/><br>
-*Responsive, fast, and beautiful*
-
-</td>
-<td align="center" width="25%">
-
-**🎨 UI/UX Innovations**<br>
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="120" height="120"/><br>
-*User-centered design mastery*
-
-</td>
-<td align="center" width="25%">
-
-**⚡ Performance Solutions**<br>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" height="120"/><br>
-*Lightning-fast optimization*
-
-</td>
-<td align="center" width="25%">
-
-**🔧 Developer Tools**<br>
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120" height="120"/><br>
-*Making coding more efficient*
-
-</td>
-</tr>
-</table>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuskarsigdel&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 <span style="color: #FFD700;">ACHIEVEMENT HALL OF FAME</span>
+## What I'm Up To
 
-<div align="center">
-
-<!-- Dynamic Achievement Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=anuskarsigdel&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
-
-<br><br>
-
-<!-- Custom Achievement Badges with Enhanced Styling -->
-<img src="https://img.shields.io/badge/🚀_Code_Architect-LEGENDARY-FFD700?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🎯_Problem_Solver-MASTER-FF6B6B?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/💡_Innovation_Leader-ELITE-00D9FF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🌟_Future_Builder-VISIONARY-4ECDC4?style=for-the-badge&labelColor=000000" />
-
-</div>
+- 🔭 Currently working on web development projects
+- 🌱 Learning advanced React patterns and backend technologies
+- 👯 Open to collaborating on interesting web projects
+- 💬 Ask me about JavaScript, React, or web development in general
+- ⚡ Fun fact: I believe every bug is just an undiscovered feature!
 
 ---
 
-## 🎨 <span style="color: #FFD93D;">CREATIVE UNIVERSE</span>
+## Get In Touch
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💪 PHYSICAL ENHANCEMENT
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150" height="150"/>
-
-```
-Building both 
-mind and body 
-for peak 
-performance
-```
-
-</td>
-<td align="center" width="33%">
-
-### 🎮 DIGITAL EXPLORATION  
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" height="150"/>
-
-```
-Mastering virtual
-worlds to enhance
-real-world
-problem solving
-```
-
-</td>
-<td align="center" width="33%">
-
-### 📚 KNOWLEDGE ACQUISITION
-<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="150" height="150"/>
-
-```
-Constantly learning
-from the greatest
-minds in tech
-and beyond
-```
-
-</td>
-</tr>
-</table>
-
-</div>
+- 📧 Email: [anuskarsigdel04@gmail.com](mailto:anuskarsigdel04@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/anuskarsigdel](https://linkedin.com/in/anuskarsigdel)
+- 🌐 GitHub: You're already here!
 
 ---
 
-## 🌐 <span style="color: #4ECDC4;">NEURAL NETWORK CONNECTIONS</span>
+## Recent Activity
 
-<div align="center">
-
-<!-- Advanced Contact Grid -->
-<a href="mailto:anuskarsigdel04@gmail.com">
-<img src="https://img.shields.io/badge/📧_Quantum_Email-anuskarsigdel04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/anuskarsigdel">
-<img src="https://img.shields.io/badge/🚀_Code_Repository-GitHub_Universe-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
-
-<a href="https://linkedin.com/in/anuskarsigdel">
-<img src="https://img.shields.io/badge/💼_Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
-
-<br><br>
-
-
-
-</div>
+- Building responsive web applications with modern frameworks
+- Exploring performance optimization techniques
+- Contributing to open source projects
+- Learning new development tools and best practices
 
 ---
 
-## 🔬 <span style="color: #4ECDC4;">LABORATORY EXPERIMENTS</span>
+Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something interesting.
 
+<<<<<<< HEAD
+⭐ **Star my repositories if you find them useful!**
+=======
 <div align="center">
 
 ### 🧪 Current Research Projects
@@ -405,10 +249,15 @@ and beyond
 
 ---
 
+>>>>>>> c23e0b513aa07be0cc64216e106bde9e1b028a1d
 
 ---
 
 <div align="center">
+<<<<<<< HEAD
+  <sub>Built with ❤️ by Anuskar Sigdel</sub>
+</div>
+=======
 
 <!-- Epic Footer Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=MISSION%20CONTINUES...&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Thanks%20for%20exploring%20my%20digital%20universe!&descAlignY=80&descAlign=50" />
@@ -429,3 +278,4 @@ and beyond
 <sub>🚀 Engineered with ❤️ and ☕ by Anuskar Sigdel | Quantum Edition 2025 | Version 3.14159</sub>
 
 </div>
+>>>>>>> c23e0b513aa07be0cc64216e106bde9e1b028a1d
