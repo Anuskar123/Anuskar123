@@ -126,34 +126,6 @@ Thanks for visiting my profile! Feel free to explore my repositories and don't h
 =======
 <div align="center">
 
-### 🧪 Current Research Projects
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🤖 AI-Powered Web Apps**<br>
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="120"/><br>
-*Exploring machine learning integration*
-
-</td>
-<td align="center" width="33%">
-
-**🌐 Quantum UI/UX**<br>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/><br>
-*Next-gen user interfaces*
-
-</td>
-<td align="center" width="33%">
-
-**⚡ Performance Optimization**<br>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120"/><br>
-*Lightning-fast web experiences*
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
