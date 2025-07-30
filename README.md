@@ -278,13 +278,13 @@ and beyond
 
 <br><br>
 
-<a href="https://github.com/anuskarsigdel">
+<!-- <a href="https://github.com/anuskarsigdel">
 <img src="https://img.shields.io/badge/🚀_Code_Repository-GitHub_Universe-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 
 <a href="https://linkedin.com/in/anuskarsigdel">
 <img src="https://img.shields.io/badge/💼_Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
+</a> -->
 
 <br><br>
 
