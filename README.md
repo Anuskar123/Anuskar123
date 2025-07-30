@@ -239,35 +239,7 @@ Thanks for visiting my profile! Feel free to explore my repositories and don't h
 
 </div>
 
----
-
->>>>>>> c23e0b513aa07be0cc64216e106bde9e1b028a1d
-
----
-
-<div align="center">
-<<<<<<< HEAD
-  <sub>Built with ❤️ by Anuskar Sigdel</sub>
-</div>
-=======
-
-<!-- Epic Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=MISSION%20CONTINUES...&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Thanks%20for%20exploring%20my%20digital%20universe!&descAlignY=80&descAlign=50" />
-
-### 🌌 *"In a world of algorithms, be the human touch"*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-**⭐ STAR THIS REPOSITORY IF IT TRANSPORTED YOU TO ANOTHER DIMENSION! ⭐**
-
-<br>
-
-<!-- Enhanced Status Badge -->
-<img src="https://img.shields.io/badge/STATUS-READY%20TO%20INNOVATE-00D9FF?style=for-the-badge&labelColor=000&logo=rocket&logoColor=00D9FF" />
-
----
 
 <sub>🚀 Engineered with ❤️ and ☕ by Anuskar Sigdel | Quantum Edition 2025 | Version 3.14159</sub>
 
 </div>
->>>>>>> c23e0b513aa07be0cc64216e106bde9e1b028a1d
