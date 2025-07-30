@@ -291,7 +291,7 @@ and beyond
 <div align="center">
 
 <!-- Music Integration -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=anuskarsigdel&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+<img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgxdG1zaWRuOXZzOGExdnl6YjQ5M2I4Z2htdjM4aTBiNTd3cTFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tqfS3mgQU28ko/giphy.gif />
 
 ### 🎧 Currently Coding To:
 *Lo-fi beats, Electronic symphonies, and Epic game soundtracks*
