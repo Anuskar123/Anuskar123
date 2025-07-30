@@ -405,40 +405,6 @@ and beyond
 
 ---
 
-## 🎪 <span style="color: #4ECDC4;">SOCIAL PROOF CONSTELLATION</span>
-
-<div align="center">
-
-<!-- Live Contribution Snake with Enhanced Animation -->
-<img src="https://github.com/anuskarsigdel/anuskarsigdel/blob/output/github-contribution-grid-snake-dark.svg" />
-
-<br>
-
-<!-- Additional Metrics Display -->
-<table>
-<tr>
-<td align="center">
-
-**💻 Total Commits**<br>
-<img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=Total%20Commits&query=%24.totalCommits&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanuskarsigdel&style=for-the-badge&labelColor=000" />
-
-</td>
-<td align="center">
-
-**🏆 Public Repos**<br>
-<img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanuskarsigdel&style=for-the-badge&labelColor=000" />
-
-</td>
-<td align="center">
-
-**⭐ Total Stars**<br>
-<img src="https://img.shields.io/github/stars/anuskarsigdel?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=000" />
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
