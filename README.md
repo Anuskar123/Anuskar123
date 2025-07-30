@@ -42,7 +42,6 @@ class QuantumDeveloper {
     private:
         string name = "Anuskar Sigdel";
         string email = "anuskarsigdel04@gmail.com";
-        string location = "🌍 Kathmandu, Nepal | 🚀 Reaching for Mars";
         vector<string> superpowers = {"Reality Manipulation", "Code Alchemy", "Future Vision"};
         string mission = "Redefining the impossible through lines of code";
         int coffeeLevel = MAXIMUM;
@@ -114,41 +113,41 @@ anuskar.hackReality();
 <tr>
 <td width="50%">
 
-### 🚀 PROJECT NEXUS: AI-POWERED REALITY
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="200"/>
+### 🕹️ SNACK-MAN: RETRO REVOLUTION
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" height="200"/>
 
 ```yaml
-🔥 Epic Features:
-  🤖 Advanced Machine Learning Integration
-  🌐 Real-time Data Visualization
-  ⚡ Lightning-fast Performance
-  🎨 Stunning 3D Interactive UI
-  📱 Cross-platform Compatibility
-  🔒 Military-grade Security
+🎯 Epic Features:
+  ⚡ Advanced AI Enemy Behavior
+  🎵 Web Audio API Integration  
+  💾 Persistent Leaderboard System
+  🎨 Smooth DOM Animations
+  🕹️ Multi-platform Controls
+  🎮 Classic Arcade Experience
   
-🚀 Tech Arsenal: React | Node.js | TensorFlow | WebGL
-💎 Innovation: First-of-its-kind quantum interface
-🏆 Impact: 10M+ users worldwide
+🚀 Tech Stack: Vanilla JS | HTML5 Canvas | Web APIs
+💡 Innovation: Custom game engine built from scratch
+🏆 Achievement: Pure JavaScript mastery showcase
 ```
 
 </td>
 <td width="50%">
 
-### 🌌 COSMOS ENGINE: UNIVERSE SIMULATOR
+### 🧮 QUANTUM CALCULATOR
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="200"/>
 
 ```yaml
-✨ Mind-blowing Capabilities:
-  🌟 Real-time Physics Simulation
-  🎭 Photorealistic Rendering Engine
-  🎮 VR/AR Integration
-  🧠 Neural Network Optimization
-  📊 Big Data Processing
-  🌈 Procedural Universe Generation
+✨ Revolutionary Design:
+  🌈 Glassmorphism UI/UX
+  🎭 3D Holographic Display
+  ⌨️ Full Keyboard Integration
+  🎯 Premium Visual Effects
+  📱 Ultra-responsive Layout
+  💫 Smooth Animations
   
-🚀 Tech Magic: C++ | OpenGL | CUDA | Python
-💡 Breakthrough: Simulates 100B+ particles
-🎯 Recognition: Featured in Tech Crunch
+🚀 Tech Stack: Advanced CSS | Modern JS | Grid Layout
+💡 Innovation: Next-gen calculator interface
+🎨 Design: Cutting-edge visual aesthetics
 ```
 
 </td>
@@ -203,22 +202,22 @@ anuskar.hackReality();
 <div align="center">
 
 <!-- Dynamic Achievement Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=anuskarsigdel&theme=radical&no-frame=true&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
 
 <br><br>
 
 <!-- Custom Legendary Badges -->
-<img src="https://img.shields.io/badge/🚀_Quantum_Architect-LEGENDARY-FFD700?style=for-the-badge&labelColor=000" />
-<img src="https://img.shields.io/badge/⚡_Reality_Hacker-MYTHICAL-FF073A?style=for-the-badge&labelColor=000" />
-<img src="https://img.shields.io/badge/🧠_AI_Whisperer-DIVINE-00FF41?style=for-the-badge&labelColor=000" />
-<img src="https://img.shields.io/badge/🌌_Universe_Builder-COSMIC-9146FF?style=for-the-badge&labelColor=000" />
+<img src="https://img.shields.io/badge/🚀_Code_Architect-LEGENDARY-FFD700?style=for-the-badge&labelColor=000" />
+<img src="https://img.shields.io/badge/🎯_Problem_Solver-MASTER-FF073A?style=for-the-badge&labelColor=000" />
+<img src="https://img.shields.io/badge/💡_Innovation_Leader-ELITE-00FF41?style=for-the-badge&labelColor=000" />
+<img src="https://img.shields.io/badge/🌟_Future_Builder-VISIONARY-9146FF?style=for-the-badge&labelColor=000" />
 
 <br><br>
 
 <!-- Real-time Metrics -->
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=REALITY+HACKERS+CONNECTED&color=00FF41&style=for-the-badge&labelColor=000" />
-<img src="https://img.shields.io/github/followers/yourusername?label=DIGITAL+DISCIPLES&style=for-the-badge&color=FF073A&labelColor=000" />
-<img src="https://img.shields.io/github/stars/yourusername?label=QUANTUM+STARS&style=for-the-badge&color=FFD700&labelColor=000" />
+<img src="https://komarev.com/ghpvc/?username=anuskarsigdel&label=DIGITAL+VISITORS&color=00FF41&style=for-the-badge&labelColor=000" />
+<img src="https://img.shields.io/github/followers/anuskarsigdel?label=FOLLOWERS&style=for-the-badge&color=FF073A&labelColor=000" />
+<img src="https://img.shields.io/github/stars/anuskarsigdel?label=QUANTUM+STARS&style=for-the-badge&color=FFD700&labelColor=000" />
 
 </div>
 
@@ -299,26 +298,18 @@ and bleeding-edge research
 <div align="center">
 
 <!-- Epic Social Contact Grid -->
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/📧_Quantum_Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" />
+<a href="mailto:anuskarsigdel04@gmail.com">
+<img src="https://img.shields.io/badge/📧_Quantum_Email-anuskarsigdel04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" />
 </a>
 
 <br>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/anuskarsigdel">
 <img src="https://img.shields.io/badge/🚀_Code_Universe-GitHub_Nexus-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000" />
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/anuskarsigdel">
 <img src="https://img.shields.io/badge/💼_Professional_Matrix-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" />
-</a>
-
-<a href="https://twitter.com/yourusername">
-<img src="https://img.shields.io/badge/🐦_Thought_Stream-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000" />
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/🌌_Digital_Portfolio-yourportfolio.com-FF073A?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000" />
 </a>
 
 <br><br>
@@ -466,7 +457,7 @@ and bleeding-edge research
 <br>
 
 <!-- Live Contribution Snake -->
-<img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/anuskarsigdel/anuskarsigdel/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -475,11 +466,11 @@ and bleeding-edge research
 <div align="center">
 
 <!-- Epic Quantum Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=TRANSMISSION%20COMPLETE&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Thanks%20for%20entering%20my%20digital%20dimension!%20🌌&descAlignY=85&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=MISSION%20CONTINUES...&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Thanks%20for%20exploring%20my%20digital%20universe!%20🌌&descAlignY=85&descAlign=50" />
 
 <br>
 
-### 🌌 *"In the matrix of existence, be the glitch that changes everything"*
+### 🌌 *"In a world of algorithms, be the human touch"*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -488,10 +479,10 @@ and bleeding-edge research
 <br>
 
 <!-- Final Status Badge -->
-<img src="https://img.shields.io/badge/STATUS-READY%20TO%20HACK%20REALITY-00FF41?style=for-the-badge&labelColor=000&logo=matrix&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/STATUS-READY%20TO%20BUILD%20THE%20FUTURE-00FF41?style=for-the-badge&labelColor=000&logo=matrix&logoColor=00FF41" />
 
 ---
 
-<sub>🚀 Engineered with ❤️, ⚡, and infinite ☕ by [Your Name] | Quantum Reality Engine v4.2.0 | Last Updated: Real-time</sub>
+<sub>🚀 Engineered with ❤️, ⚡, and infinite ☕ by Anuskar Sigdel | Quantum Edition 2025 | Version 3.14159</sub>
 
 </div>
