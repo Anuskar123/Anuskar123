@@ -121,38 +121,6 @@ Various responsive web applications focusing on user experience and performance.
 
 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something interesting.
 
-<<<<<<< HEAD
-⭐ **Star my repositories if you find them useful!**
-=======
-<div align="center">
-
-</div>
-
----
-
-## 🎭 <span style="color: #FF6B6B;">PERFORMANCE METRICS</span>
-
-<div align="center">
-
-```
-🎯 Problem Solving    ████████████████████ 100%
-🚀 Innovation        ████████████████████ 100%  
-💻 Technical Skills   ██████████████████░░  90%
-🎨 Creative Design    ██████████████████░░  90%
-🤝 Team Leadership    ████████████████████ 100%
-⚡ Learning Speed     ████████████████████ 100%
-🔥 Passion Level      ████████████████████ ∞∞∞%
-```
-
-<br>
-
-
-</div>
-
-
-</div>
-
-
-<sub>🚀 Engineered with ❤️ and ☕ by Anuskar Sigdel | Quantum Edition 2025 | Version 3.14159</sub>
+<sub>🚀 Engineered with ❤️ and ☕ by Anuskar Sigdel 
 
 </div>
