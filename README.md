@@ -177,65 +177,6 @@ Thanks for visiting my profile! Feel free to explore my repositories and don't h
 
 </div>
 
----
-
-## 🎵 <span style="color: #FFD93D;">SONIC WAVELENGTHS</span>
-
-<div align="center">
-
-<!-- Music Integration with Enhanced Visual -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgxdG1zaWRuOXZzOGExdnl6YjQ5M2I4Z2htdjM4aTBiNTd3cTFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tqfS3mgQU28ko/giphy.gif" width="60%" />
-
-### 🎧 Currently Coding To:
-*Lo-fi beats • Electronic symphonies • Epic game soundtracks*
-
-**🎼 Inspiration Playlist:**
-- *Synthwave for Deep Focus*
-- *Ambient Electronic for Problem Solving*
-- *Upbeat Tracks for Creative Bursts*
-
-</div>
-
----
-
-## 💫 <span style="color: #FF6B6B;">QUANTUM INSPIRATIONS</span>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  "THE FUTURE BELONGS TO THOSE WHO BELIEVE IN THE BEAUTY OF THEIR DREAMS"    ║
-║                                                                              ║
-║  🌟 Current Mission: Building tomorrow's web today                          ║
-║  🎯 Philosophy: Every bug is a feature waiting to be discovered             ║
-║  🚀 Vision: Creating technology that inspires and empowers                  ║
-║  💡 Motto: Think different, code different, be different                    ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20in%20logic&author=Anuskar%20Sigdel" />
-
-</div>
-
----
-
-## 🌟 <span style="color: #FFD93D;">TESTIMONIAL MATRIX</span>
-
-<div align="center">
-
-> *"Anuskar doesn't just write code, he crafts digital experiences that push the boundaries of what's possible."*
-> 
-> **- Future Self, 2030**
-
-> *"A true digital architect who sees patterns where others see chaos."*
-> 
-> **- AI Assistant, 2025**
-
-> *"His dedication to clean code and innovative solutions is truly inspiring."*
-> 
-> **- The Developer Community, 2024**
 
 </div>
 
