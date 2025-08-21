@@ -1,6 +1,6 @@
 # Hi there, I'm Anuskar Sigdel 👋
 
-**Software Developer | Problem Solver | Tech Enthusiast**
+**Problem Solver | Tech Enthusiast**
 
 Welcome to my GitHub profile! I'm passionate about building web applications and exploring new technologies. Currently focused on creating efficient, user-friendly solutions that make a difference.
 
