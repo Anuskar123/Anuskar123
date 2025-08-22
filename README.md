@@ -121,6 +121,6 @@ Various responsive web applications focusing on user experience and performance.
 
 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something interesting.
 
-<sub>🚀 Engineered by Anuskar Sigdel 
+ 
 
 </div>
