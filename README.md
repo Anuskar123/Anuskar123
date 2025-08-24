@@ -65,17 +65,7 @@ A modern take on the classic Pac-Man game built with vanilla JavaScript.
 
 **Tech:** JavaScript, HTML5 Canvas, Web APIs
 
-### 🧮 Advanced Calculator
-A feature-rich calculator with modern UI/UX design.
 
-**Features:**
-- Clean, intuitive interface
-- Keyboard input support
-- Responsive design
-- Advanced mathematical operations
-- Smooth animations
-
-**Tech:** HTML, CSS, JavaScript
 
 ### 🌐 Web Applications
 Various responsive web applications focusing on user experience and performance.
