@@ -67,7 +67,7 @@ A modern take on the classic Pac-Man game built with vanilla JavaScript.
 
 
 
-### 🌐 Web Applications
+###  Web Applications
 Various responsive web applications focusing on user experience and performance.
 
 **Focus Areas:**
