@@ -53,7 +53,7 @@ I enjoy turning complex problems into simple, elegant solutions. When I'm not co
 
 ## Featured Projects
 
-### 🎮 Snack-Man Game
+###  Snack-Man Game
 A modern take on the classic Pac-Man game built with vanilla JavaScript.
 
 **Features:**
