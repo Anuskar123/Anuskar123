@@ -47,7 +47,7 @@ I enjoy turning complex problems into simple, elegant solutions. When I'm not co
 - C++
 - SQL
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,sql,docker,linux,git,github&theme=light" alt="Tech Stack" />
+
 
 ---
 
