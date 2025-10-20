@@ -1,4 +1,4 @@
-# Hi there, I'm Anuskar Sigdel 👋
+# Hi there, I'm Anuskar Sigdel
 
 **Problem Solver | Tech Enthusiast**
 
