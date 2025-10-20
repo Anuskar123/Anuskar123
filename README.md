@@ -84,19 +84,19 @@ Various responsive web applications focusing on user experience and performance.
 
 ## What I'm Up To
 
-- 🔭 Currently working on web development projects
-- 🌱 Learning advanced React patterns and backend technologies
-- 👯 Open to collaborating on interesting web projects
-- 💬 Ask me about JavaScript, React, or web development in general
-- ⚡ Fun fact: I believe every bug is just an undiscovered feature!
+-  Currently working on web development projects
+-  Learning advanced React patterns and backend technologies
+-  Open to collaborating on interesting web projects
+-  Ask me about JavaScript, React, or web development in general
+-  Fun fact: I believe every bug is just an undiscovered feature!
 
 ---
 
 ## Get In Touch
 
-- 📧 Email: [anuskarsigdel04@gmail.com](mailto:anuskarsigdel04@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/anuskarsigdel](https://linkedin.com/in/anuskarsigdel)
-- 🌐 GitHub: You're already here!
+-  Email: [anuskarsigdel04@gmail.com](mailto:anuskarsigdel04@gmail.com)
+-  LinkedIn: [linkedin.com/in/anuskarsigdel](https://linkedin.com/in/anuskarsigdel)
+-  GitHub: You're already here!
 
 ---
 
